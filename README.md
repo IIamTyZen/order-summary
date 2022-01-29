@@ -20,8 +20,8 @@
 
 ### Links
 
-- Solution URL: [](https://github.com/IIamTyZen/order-summary)
-- Live Site URL: [](https://iiamtyzen.github.io/order-summary/)
+- Solution URL: [https://github.com/IIamTyZen/order-summary](https://github.com/IIamTyZen/order-summary)
+- Live Site URL: [https://iiamtyzen.github.io/order-summary/](https://iiamtyzen.github.io/order-summary/)
 
 ## My process
 
